@@ -15,3 +15,6 @@ c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeVi
 c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\View\App.g.cs
 c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
 c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView_MarkupCompile.lref
+C:\Users\Pera\Documents\Visual Studio 2013\Projects\AutoFacTreeView\AutofacTreeView\bin\Debug\AutofacTreeView.exe.config
+C:\Users\Pera\Documents\Visual Studio 2013\Projects\AutoFacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.exe
+C:\Users\Pera\Documents\Visual Studio 2013\Projects\AutoFacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.pdb
