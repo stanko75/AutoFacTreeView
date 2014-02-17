@@ -1,0 +1,17 @@
+﻿<Window x:Class="AutofacTreeView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewModel="clr-namespace:AutofacTreeView.ViewModel"
+        xmlns:model="clr-namespace:AutofacTreeView.Model"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <StackPanel.Resources>
+                <viewModel:LoadXMLClick x:Key="LoadXMLClick"/>
+                <model:TreeViewModel x:Key="TreeViewModel"/>
+            </StackPanel.Resources>
+            <TreeView DataContext="{StaticResource TreeViewModel}" ItemsSource="{Binding Path=TreeViewModels}" Height="205"/>
+            <Button DataContext="{StaticResource LoadXMLClick}" Content="Load XML" Command="{Binding LoadXmlClickCommand}"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\bin\Debug\AutofacTreeView.exe.config
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\bin\Debug\AutofacTreeView.exe
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\bin\Debug\AutofacTreeView.pdb
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\bin\Debug\Autofac.dll
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\bin\Debug\Autofac.xml
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.csprojResolveAssemblyReference.cache
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView_MarkupCompile.cache
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.g.resources
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.Properties.Resources.resources
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.csproj.GenerateResource.Cache
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.exe
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView.pdb
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\View\MainWindow.baml
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\View\MainWindow.g.cs
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\View\App.g.cs
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\smi\documents\visual studio 2012\Projects\AutofacTreeView\AutofacTreeView\obj\Debug\AutofacTreeView_MarkupCompile.lref
